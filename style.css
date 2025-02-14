@@ -1,0 +1,15 @@
+.Hello{
+    background-color: aqua;
+    color: black;
+}
+#Lorem{
+    background-color: black;
+    color: antiquewhite;
+    font-size: 27px;
+}
+.link{
+    text-decoration: none;
+    font-size: 50px;
+    background-color: blue;
+    color: greenyellow;
+}
